@@ -1,4 +1,4 @@
-Dependances:
+Dependencies:
 
 
 npm install npx
